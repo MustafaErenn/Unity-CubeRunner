@@ -27,11 +27,6 @@ Engellere çarpmadan ilerleyip bölümü bitirmek için bu çizgiye ulaşmak zor
 
 Engellere çarpmadan ilerleyip bölümü bitirirseniz bu menu ile karşılaşıcaksınız ve yine reklam izleme şansına sahipsiniz veya izlemeden sonraki bölüme geçebilirsiniz.
 
-## CubeRunner Bölüm Bitimi Menu
-![Bölüm Bitimi Menu](/ReadMe-Images/bolumBitimiMenu.png)
-
-Engellere çarpmadan ilerleyip bölümü bitirirseniz bu menu ile karşılaşıcaksınız ve yine reklam izleme şansına sahipsiniz veya izlemeden sonraki bölüme geçebilirsiniz.
-
 
 ## CubeRunner Bölüm Mağaza
 ![Magaza](/ReadMe-Images/shop.png)
